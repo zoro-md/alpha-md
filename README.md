@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="https://github.com/C-iph3r">
-    <h1 align="center">ALPHA-MD</h1>
+    <h1 align="center">zoro-MD</h1>
   </a>
 </p>
 <p align="center"> 
@@ -18,14 +18,14 @@
 
 
 
-### FORK THIS REPO
+### FORK cheayada thayoli
 
 - Must Fork This Repo Before Deployment !
    <br> 
 <a href="https://github.com/C-iph3r/alpha-md/fork"><img title="FORK" src="https://img.shields.io/badge/FORK-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-### GET SESSION ID
+### GET SESSION ID VENO E KUNNA CLICK CHEAY
 - Click here to get your SESSION_ID
    <br>
 <a href='https://session.alpha-md.rf.gd/' target="_blank"><img alt='GET SESSION' src='https://img.shields.io/badge/SCAN-QR-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
@@ -40,7 +40,7 @@ In case of support or any issues you can come here
 
 ***
 
-#### DEPLOY TO HEROKU 
+#### DEPLOY UMBAN  HEROKU ITH MATHI KUNNE
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
